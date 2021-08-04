@@ -1,2 +1,1 @@
-# Miscellaneous-Python-Scripts
-python
+Miscellanous Python scripts
